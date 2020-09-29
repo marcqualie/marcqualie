@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-<!--
-**marcqualie/marcqualie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Marc Qualie, a Plant Based Software engineer from Northern England.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📖 Latest Blog Posts
+
+- [Rendering Templates in Rails API Controllers](https://marcqualie.com/2020/07/rendering-templates-in-rails-api-controllers)
+- [Carbon Offsetting](https://marcqualie.com/2020/05/carbon-offsetting)
+- [IAM Policy for Humans](https://marcqualie.com/2020/05/iam-policy-for-humans)
+
+
+### 💬 Follow Me!
+
+- [Twitter](https://twitter.com/marcqualie)
+- [Instagram](https://www.instagram.com/marcqualie/)
